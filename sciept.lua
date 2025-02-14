@@ -29,6 +29,7 @@ _G.CONFIGURATION = {
             ["Huge Potion"] = 1,  -- count to send item from
             ["Exotic Mining Chest"] = 50,  -- count to send item from
             ["Runic Mining Chest"] = 50,  -- count to send item from
+	    ["Hype Egg"] = 1,  -- count to send item from
             ["Crystal Key"] = 50,  -- count to send item from
             ["Instant Luck Potion IV"] = 50,  -- count to send item from
             ["Mastery XP Potion"] = 5,  -- count to send item from
