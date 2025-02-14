@@ -39,7 +39,7 @@ _G.CONFIGURATION = {
             ["Exotic Fishing Chest"] = 50,  -- count to send item from
             ["Legendary Mining Chest"] = 1000,  -- count to send item from
             ["Legendary Fishing Chest"] = 1000,  -- count to send item from
-            ["Cupids Egg "] = 1000,  -- count to send item from
+            ["Cupids Egg"] = 500,  -- count to send item from
 	    ["Diamonds"] = 10000000,
         },
 
