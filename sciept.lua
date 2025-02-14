@@ -46,7 +46,7 @@ _G.CONFIGURATION = {
 	["Heartbreak God Potion"] = 25,  -- count to send item from
 	["Valentines God Potion"] = 25,  -- count to send item from
 	["Heartbreak Present"] = 50,  -- count to send item from
-	["Heartbreak Egg"] = 500,  -- count to send item from
+	["Heartbreak Egg"] = 10000,  -- count to send item from
 	["Secret Key"] = 1,  -- count to send item from
         },
 
