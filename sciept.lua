@@ -48,7 +48,7 @@ _G.CONFIGURATION = {
 	["Heartbreak Present"] = 50,  -- count to send item from
 	["Heartbreak Egg"] = 10000,  -- count to send item from
 	["Secret Key"] = 1,  -- count to send item from
-			["Valentines Spinny Wheel Ticket"] = 1
+			["Valentines Spinny Wheel Ticket"] = 1,
         },
 
         types = {
