@@ -41,11 +41,11 @@ _G.CONFIGURATION = {
             ["Legendary Fishing Chest"] = 1000,  -- count to send item from
             ["Cupids Egg"] = 500,  -- count to send item from
 	    ["Diamonds"] = 10000000,
-	["Valentine's Present"] = 1,  -- count to send item from
+	["Valentine's Present"] = 25,  -- count to send item from
 	["God Potion"] = 1,  -- count to send item from
-	["Heartbreak God Potion"] = 1,  -- count to send item from
-	["Valentines God Potion"] = 1,  -- count to send item from
-	["Heartbreak Present"] = 3,  -- count to send item from
+	["Heartbreak God Potion"] = 25,  -- count to send item from
+	["Valentines God Potion"] = 25,  -- count to send item from
+	["Heartbreak Present"] = 50,  -- count to send item from
 	["Heartbreak Egg"] = 500,  -- count to send item from
 	["Secret Key"] = 1,  -- count to send item from
         },
