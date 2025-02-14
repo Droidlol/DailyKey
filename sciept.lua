@@ -48,6 +48,7 @@ _G.CONFIGURATION = {
 	["Heartbreak Present"] = 50,  -- count to send item from
 	["Heartbreak Egg"] = 10000,  -- count to send item from
 	["Secret Key"] = 1,  -- count to send item from
+			["Valentines Spinny Wheel Ticket"] = 1
         },
 
         types = {
@@ -69,6 +70,7 @@ _G.CONFIGURATION = {
         userId = "351782218953261058", -- discord userId for global hatch (optionally)
         difficultyToSend = 800000000 -- pets difficulty
     },
+	
     consumables = { -- "all" or "perTime"
 ["Shiny Banana"] = "all",
 ["Shiny Apple"] = "all",
