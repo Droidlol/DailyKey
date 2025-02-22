@@ -20,7 +20,7 @@ _G.CONFIGURATION = {
     },
     keys = {
         autoCraftKeys = true,
-        autoUseCrystalKeys = false
+        autoUseCrystalKeys = true
     },
     merchants = { -- Parameter for the “merchants” function / This is where you enter the merchants you want to farm, all merchants from the game are provided here
         "FishingMerchant",
